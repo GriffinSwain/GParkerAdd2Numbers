@@ -1,4 +1,9 @@
-﻿string first;
+﻿//Griffin Parker
+//Mini Challenge 2 Remastered - Add 2 Numbers
+//October 18, 2022
+//Peer Reviewed by: 
+
+string first;
 string second;
 int firstNumber = 0;
 int secondNumber = 0;
