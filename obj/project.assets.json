@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\truck\\.nuget\\packages\\": {}
+    "C:\\Users\\harry\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\GParkerAdd2Numbers\\GParkerAdd2Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GParkerAdd2Numbers\\GParkerAdd2Numbers.csproj",
       "projectName": "GParkerAdd2Numbers",
-      "projectPath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\GParkerAdd2Numbers\\GParkerAdd2Numbers.csproj",
-      "packagesPath": "C:\\Users\\truck\\.nuget\\packages\\",
-      "outputPath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\GParkerAdd2Numbers\\obj\\",
+      "projectPath": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GParkerAdd2Numbers\\GParkerAdd2Numbers.csproj",
+      "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\harry\\OneDrive\\Desktop\\Git Repositories\\GParkerAdd2Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\truck\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
