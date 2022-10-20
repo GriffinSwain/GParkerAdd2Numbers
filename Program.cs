@@ -1,6 +1,7 @@
 ﻿//Griffin Parker
 //Mini Challenge 2 Remastered - Add 2 Numbers
 //October 18, 2022
+//This program takes two user inputs and adds them together. It makes sure that the numbers are actually numbers then outputs the sum to the user. 
 //Peer Reviewed by: 
 
 string first;
